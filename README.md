@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sohbis
+- 👋 Hi, I’m @SohamBiswas
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently working with Angular and learning node js
 - 📫 You can reach me over my email- Soham.biswas.19@gmail.com
