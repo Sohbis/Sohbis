@@ -2,6 +2,7 @@
 I’m a Senior Software Engineer with 8+ years of experience building robust, scalable, and enterprise-grade web applications. My core expertise lies in developing modern front-end solutions using Angular, TypeScript, and JavaScript, with strong backend exposure in .NET Core. Specialized in micro-frontend architecture, performance tuning, and building modular, reusable UI systems.
 
 🔧 Tech Stack
+
     Frontend: Angular, HTML5, SCSS, RxJS, NgRx, Bootstrap, Kendo UI
     
     Backend: .NET Core, Node.js, Express
@@ -17,6 +18,7 @@ I’m a Senior Software Engineer with 8+ years of experience building robust, sc
     Architecture: Micro-frontend, Modular Design, REST APIs
 
 📌 Current Focus
+
     Building Angular micro-apps for enterprise workflows
     
     Enhancing performance and user experience
