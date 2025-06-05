@@ -2,28 +2,28 @@
 I’m a Senior Software Engineer with 8+ years of experience building robust, scalable, and enterprise-grade web applications. My core expertise lies in developing modern front-end solutions using Angular, TypeScript, and JavaScript, with strong backend exposure in .NET Core. Specialized in micro-frontend architecture, performance tuning, and building modular, reusable UI systems.
 
 🔧 Tech Stack
-Frontend: Angular, HTML5, SCSS, RxJS, NgRx, Bootstrap, Kendo UI
+    Frontend: Angular, HTML5, SCSS, RxJS, NgRx, Bootstrap, Kendo UI
+    
+    Backend: .NET Core, Node.js, Express
+    
+    Database: SQL Server, Oracle, MariaDB
+    
+    DevOps: CI/CD, Azure DevOps, GitHub Actions
+    
+    Tools: Git, JIRA, Postman, VS Code
+    
+    Testing: Jasmine, Karma
 
-Backend: .NET Core, Node.js, Express
-
-Database: SQL Server, Oracle, MariaDB
-
-DevOps: CI/CD, Azure DevOps, GitHub Actions
-
-Tools: Git, JIRA, Postman, VS Code
-
-Testing: Jasmine, Karma
-
-Architecture: Micro-frontend, Modular Design, REST APIs
+    Architecture: Micro-frontend, Modular Design, REST APIs
 
 📌 Current Focus
-Building Angular micro-apps for enterprise workflows
-
-Enhancing performance and user experience
-
-Mentoring developers and conducting code reviews
-
-Exploring architecture patterns and automation
+    Building Angular micro-apps for enterprise workflows
+    
+    Enhancing performance and user experience
+    
+    Mentoring developers and conducting code reviews
+    
+    Exploring architecture patterns and automation
 
 📫 Let's Connect
 📧 Soham.biswas.19@gmail.com
